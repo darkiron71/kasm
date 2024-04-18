@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Dark Iron Repo',
+    description: 'Dark Iron Docker Repo Images.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://gitlab.com/darkironkasm/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
