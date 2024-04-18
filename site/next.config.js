@@ -10,7 +10,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/darkiron71/kasm/1.0',
+  basePath: '/kasm/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
