@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Dark Iron Repo',
     description: 'Dark Iron Docker Repo Images.',
     icon: '/img/logo.svg',
-    listUrl: 'docker.io/darkiron71/',
+    listUrl: 'https://darkiron71.github.io/kasm/1.0/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
